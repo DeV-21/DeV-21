@@ -1,5 +1,6 @@
-### Hi there 👋
-## 🌱 I’m currently exploring Data Science and its technologies
+## Hi there 👋 I'm Devansh
+### 🔭 I’m currently working on enhancing my programming skills
+### 🌱 I’m currently exploring Data Science and its technologies
 <!--
 **DeV-21/DeV-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
